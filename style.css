@@ -1,0 +1,48 @@
+nav{
+    display: inline;
+    font-size: 1.5em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body{
+    color:firebrick ;
+}
+#profile-pic img{
+    border-radius: 50%;
+    max-width: 25%;
+}
+
+
+aside{
+    display: flex; 
+    flex-wrap: wrap;
+    margin: 5%;
+}
+
+.projects img {
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    object-fit: scale-down;
+  }
+  
+  .projects img:hover {
+    box-shadow: 0 0 2px 1px rgba(255, 63, 63, 0.5);
+  }
+  
+body {    
+    background-image: url("AdobeStock_243385802.jpeg");  
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    }  
+
+@media screen and (max-width: 992px) {
+    header {
+      background: #772014;
+      color: white;}
+    }
