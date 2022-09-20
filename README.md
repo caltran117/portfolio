@@ -10,6 +10,8 @@ this project was to build a portfolio website starting with a blank sheet. the p
 
 I was able to solve the problem of building a website and learn how to use both html and css together. 
 
+Please visit [my portfolio](https://caltran117.github.io/portfolio/)
+
 ## Installation
 
 N/A
