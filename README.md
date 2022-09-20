@@ -18,7 +18,7 @@ N/A
 
 3 images are links to my projects
 
-![3 portfolio images] (images\Screenshot 2022-09-19 234221.png)
+![3 portfolio images] (https://github.com/caltran117/portfolio/blob/main/images/Screenshot%202022-09-19%20234221.png)
 
 ## Credits
 
