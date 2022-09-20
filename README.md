@@ -4,9 +4,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-this project was to build a portfolio website starting with a blank sheet. the purpose was to use the skills I've learned and to "learn how to learn" by researching the necessary information and implementing it. This portfolio will be used to show my projects that I've been working on to people who may be interested and future employers and clients. This is a showcase of who I am and want I can offer.
+This project was to build a portfolio website starting with a blank sheet. the purpose was to use the skills I've learned and to "learn how to learn" by researching the necessary information and implementing it. This portfolio will be used to show my projects that I've been working on to people who may be interested and future employers and clients. This is a showcase of who I am and want I can offer.
 
 I was able to solve the problem of building a website and learn how to use both html and css together. 
 
