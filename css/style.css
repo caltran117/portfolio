@@ -10,11 +10,18 @@ nav{
 body{
     color:firebrick ;
 }
+
 #profile-pic img{
-    border-radius: 50%;
+    border-radius: 5%;
     max-width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
 }
 
+#about{
+  color:white
+}
 
 aside{
     display: flex; 
